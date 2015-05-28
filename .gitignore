@@ -1,0 +1,8 @@
+# class fiel
+*.class
+
+#setting
+.settings/
+
+#bin
+bin/
